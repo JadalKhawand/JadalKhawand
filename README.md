@@ -6,7 +6,7 @@ I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languag
 ## Skills and Experiences
 * :atom: React
 * 💻: HTML, CSS, JS
-
+## Additional
 - 🔭 I’m currently working on a website 
 - 🌱 I’m currently learning html, css, javascript, python 
 - 😄 Pronouns: He/Him 
