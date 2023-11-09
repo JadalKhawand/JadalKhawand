@@ -5,7 +5,7 @@ I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languag
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadalKhawand)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills and Experiences
 * :atom: React
-* 💻: HTML, CSS, JS
+* 💻: HTML, CSS, JS, C, Python
 ## Additional
 - 🔭 I’m currently working on a website 
 - 🌱 I’m currently learning html, css, javascript, python 
