@@ -2,8 +2,8 @@
 #### Development
 # Jad al Khawand
 I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languages and frameworks like react.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadalKhawand)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadalKhawand&show_icons=true&theme=radical)
+
 
 ## Skills and Experiences
 * :atom: React
