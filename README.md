@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jad al Khawand
 #### Development
 # Jad al Khawand
-I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languages and frameworks like react, as well as work in WordPress.
+I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languages and frameworks like react.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadalKhawand)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills and Experiences
 * :atom: React
