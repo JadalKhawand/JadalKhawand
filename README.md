@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jad al Khawand
-#### Development
+#### Web Development
 # Jad al Khawand
 I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languages and frameworks like react.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadalKhawand&show_icons=true&theme=radical)
