@@ -1,16 +1,20 @@
-### Hi there 👋, I'm Jad al Khawand
-#### Web Development
+### Hey there 👋, I'm Jad al Khawand
+#### Full Stack Web Development
 # Jad al Khawand
-I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languages and frameworks like react.
+I'm Jad from Lebanon, I'm majoring in computer science. I enjoy learning languages and frameworks like Express.js and libraries like react.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadalKhawand&show_icons=true&theme=radical)
 
 
 ## Skills and Experiences
 * :atom: React
-* 💻: HTML, CSS, JS, C, Python
+* 🚀: Express.js, Node.js
+* 📁: MongoDB
+* 💻: HTML, CSS, JavaScript, C, Python
+  
 ## Additional
 - 🔭 I’m currently working on a website 
-- 🌱 I’m currently learning html, css, javascript, python 
+- 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: He/Him 
 
 
