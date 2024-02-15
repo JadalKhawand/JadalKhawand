@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! My name is Jad and I'm a Full-Stack Developer and Junior Computer Science Student</h2>
+<h2 align="center">Hello <img width="20" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">! My name is Jad and I'm a Full-Stack web Developer and a Computer Science Student</h2>
 
 ###
 
