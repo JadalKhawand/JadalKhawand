@@ -10,11 +10,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadalKhawand&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+####
 
 <p align="center">Programming languages</p>
 
-###
+####
 
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
